@@ -128,7 +128,7 @@ install_easytier() {
 
 
 # Call the function
-install_easytier
+#install_easytier
 
 generate_random_secret() {
     openssl rand -hex 6
