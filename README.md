@@ -14,7 +14,7 @@ bash <(curl -Ls --ipv4 https://github.com/sh-vp/Mesh/raw/main/easymesh.sh)
 
 v2
 ```
-bash <(curl -Ls --ipv4 https://github.com/sh-vp/Mesh/raw/main/easymesh_v2.sh)
+bash <(curl -Ls --ipv4 https://github.com/sh-vp/Mesh/raw/main/v2.sh)
 ```
 
 ## Source code
